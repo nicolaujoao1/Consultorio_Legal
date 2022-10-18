@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consultorio.Data", "Consult
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consultorio.Core", "Consultorio.Core\Consultorio.Core.csproj", "{8FB47D89-70DA-4099-A866-574267B12B2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consultorio.Tests", "Consultorio.Tests\Consultorio.Tests.csproj", "{F585E067-F961-4433-B5EE-99F11D66A305}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8FB47D89-70DA-4099-A866-574267B12B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FB47D89-70DA-4099-A866-574267B12B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FB47D89-70DA-4099-A866-574267B12B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F585E067-F961-4433-B5EE-99F11D66A305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F585E067-F961-4433-B5EE-99F11D66A305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F585E067-F961-4433-B5EE-99F11D66A305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F585E067-F961-4433-B5EE-99F11D66A305}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
